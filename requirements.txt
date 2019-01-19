@@ -1,0 +1,10 @@
+requests
+# xml
+# re
+# getpass
+# os
+# sys
+# socket
+# time
+# errno
+# signal
